@@ -1,0 +1,42 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+.springBeans
+*.iml
+*.iws
+*.ipr
+
+# Java / Maven
+target/
+build/
+*.class
+*.jar
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Local database / tooling
+*.db
+*.sqlite
